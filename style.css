@@ -137,7 +137,7 @@ nav a {
 }
 
 main, section {
-  max-width: 50rem;;
+  max-width: 60rem;;
   margin-bottom: 5rem;
 }
 
@@ -197,7 +197,7 @@ table, th, td {
 
 #grid-cell-1{
   background-image: linear-gradient(black, black),
-  url(./assets/2020_1_ardak.png);
+  url(https://d1v7jayx2s9clc.cloudfront.net/user/pages/07.floodnet/carmin.jpg);
 }
 
 #grid-cell-2{

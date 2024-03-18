@@ -205,10 +205,10 @@ table, th, td {
                     url(./assets/queering\ the\ map.png);
 }
 
-#grid-cell-3{
+/* #grid-cell-3{
   background-image: linear-gradient(black, black),
                     url(./assets/2021_3_yiqing.png);
-}
+} */
 
 #grid-cell-4{
   background-image: linear-gradient(black, black),
